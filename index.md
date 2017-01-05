@@ -1,5 +1,3 @@
-
-<!DOCTYPE HTML>
 <html itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <head>
 <meta charset="UTF-8">
