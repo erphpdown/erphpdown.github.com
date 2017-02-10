@@ -25,14 +25,6 @@
 </style>
 </head>
 <body class="page page-template page-template-pages page-template-theme page-template-pagestheme-php mobantu">
-<header class="header">
-  <div class="container">
-    
-    <ul class="site-nav site-navbar">
-        <li class="nav-login"><a href="http://www.mobantu.com/1780.html" class="btn btn-primary">立即购买</a></li>
-    </ul>
-  </div>
-</header>
 
 <section class="container">
 <div class="banner theme-focus theme-center" id="focus">
@@ -56,18 +48,7 @@
     </div>
 </div>
 <div class="container">
-  <div class="theme-sidebar">
-    <div class="theme-nav affix-top">
-      <ul class="nav scrollspy">
-        <li class="active"><a href="#info">插件介绍</a></li>
-        <li class=""><a href="#fn">功能概览</a></li>
-        <li class=""><a href="#use">使用说明</a></li>
-        <li class=""><a href="#faq">常见问题</a></li>
-        <li class=""><a href="#update">版本更新</a></li>
-        <li class=""><a href="#service">售后服务</a></li>
-      </ul>
-    </div>
-  </div>
+  
   <div class="theme-contents">
   
     <h2 id="info"><i class="fa fa-quote-left"></i> 插件介绍</h2>
