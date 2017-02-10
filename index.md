@@ -14,15 +14,6 @@
 <link rel='stylesheet' id='user-css'  href='static/css/theme.css' type='text/css' media='screen' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/1.9.1/jquery.min.js'></script>
 <!--[if lt IE 9]><script src="http://apps.bdimg.com/libs/html5shiv/r29/html5.min.js"></script><![endif]-->
-<style>
-.theme-header {float: left !important;width: 53% !important;text-align: left !important;}
-.theme-thumbnail {float: right !important;width: 43% !important;text-align: right !important;}
-.theme-focus h1{font-size:36px;}
-.theme-focus h2{line-height:20px;margin-bottom: 0 !important;font-size: 16px !important}
-.theme-focus .theme-price {font-size: 30px;padding: 15px 0;}
-.theme-focus .theme-alert{padding-top:10px !important;}
-.banner, .banner:after{height:460px;}
-</style>
 </head>
 <body class="page page-template page-template-pages page-template-theme page-template-pagestheme-php mobantu">
 
